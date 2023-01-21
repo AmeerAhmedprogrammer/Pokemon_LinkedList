@@ -1,2 +1,1 @@
-# Pokemon_LinkedList
-This is practice for the LinkedList using Pokemon.
+This is practice for the LinkedList using Pokemon to help me understand.
